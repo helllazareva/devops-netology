@@ -1,22 +1,22 @@
-# devops-netology 
+п»ї# devops-netology 
 **/.terraform/*
-игнорируем все файлы .terraform  в любом каталоге
+РёРіРЅРѕСЂРёСЂСѓРµРј РІСЃРµ С„Р°Р№Р»С‹ .terraform  РІ Р»СЋР±РѕРј РєР°С‚Р°Р»РѕРіРµ
 
 *.tfstate
 *.tfstate.*
 *.tfvars
-игнорируем все фалы с расширением tfstate,tfvars в текущем каталоге
+РёРіРЅРѕСЂРёСЂСѓРµРј РІСЃРµ С„Р°Р»С‹ СЃ СЂР°СЃС€РёСЂРµРЅРёРµРј tfstate,tfvars РІ С‚РµРєСѓС‰РµРј РєР°С‚Р°Р»РѕРіРµ
 
 crash.log
-игнорируем crash.log в текущем каталоге
+РёРіРЅРѕСЂРёСЂСѓРµРј crash.log РІ С‚РµРєСѓС‰РµРј РєР°С‚Р°Р»РѕРіРµ
 
 override.tf
 override.tf.json
 *_override.tf
 *_override.tf.json
-игнорируем override.tf,override.tf.json, _override.tf и _override.tf.json с любым кол-вом символов в начале
+РёРіРЅРѕСЂРёСЂСѓРµРј override.tf,override.tf.json, _override.tf Рё _override.tf.json СЃ Р»СЋР±С‹Рј РєРѕР»-РІРѕРј СЃРёРјРІРѕР»РѕРІ РІ РЅР°С‡Р°Р»Рµ
 
 
 .terraformrc
 terraform.rc
-игнорируем эти фйлы тоже
+РёРіРЅРѕСЂРёСЂСѓРµРј СЌС‚Рё С„Р№Р»С‹ С‚РѕР¶Рµ
