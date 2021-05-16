@@ -1,6 +1,6 @@
 ﻿# devops-netology 
 **/.terraform/*
-игнорируем все файлы .terraform  в любом каталоге
+игнорируем все файлы .terraform  в любом кат
 
 *.tfstate
 *.tfstate.*
