@@ -19,4 +19,4 @@ override.tf.json
 
 .terraformrc
 terraform.rc
-игнорируем эти фйлы тоже
+игнорируем эти фйлы тожеnew string
